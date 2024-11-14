@@ -1,0 +1,17 @@
+footer {
+    padding: 5%;
+    text-align: center;
+
+}
+
+#btn-div {
+    padding: 5%;
+}
+
+body {
+    background-color: black;
+}
+
+h1, p, label, footer {
+    color: white;
+}
